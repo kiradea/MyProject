@@ -18,6 +18,9 @@
     // Do any additional setup after loading the view, typically from a nib.
     UILabel *testLbl  = [[UILabel alloc] init];
     [self.view addSubview:testLbl];
+    
+    
+    //ADD Allen Game function
 }
 
 
